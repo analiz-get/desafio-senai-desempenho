@@ -1,0 +1,46 @@
+=== RELATORIO DE DESEMPENHO ACADEMICO - SENAI ===
+
+Aluno: Alice............... Media:  8.43 | Status: Aprovado
+Aluno: Bob................. Media:  6.00 | Status: Recuperacao
+Aluno: Daniel.............. Media:  9.75 | Status: Aprovado
+Aluno: Frank............... Media:  7.00 | Status: Aprovado
+Aluno: Adriana............. Media:  8.17 | Status: Aprovado
+Aluno: Bruno............... Media:  5.17 | Status: Recuperacao
+Aluno: Caio................ Media:  9.00 | Status: Aprovado
+Aluno: Debora.............. Media:  7.00 | Status: Aprovado
+Aluno: Eduardo............. Media:  6.00 | Status: Recuperacao
+Aluno: Fernanda............ Media:  9.83 | Status: Aprovado
+Aluno: Gabriel............. Media:  4.17 | Status: Recuperacao
+Aluno: Helena.............. Media:  8.50 | Status: Aprovado
+Aluno: Igor................ Media:  7.50 | Status: Aprovado
+Aluno: Joao................ Media:  6.50 | Status: Recuperacao
+Aluno: Karla............... Media:  9.43 | Status: Aprovado
+Aluno: Lucas............... Media:  5.50 | Status: Recuperacao
+Aluno: Mariana............. Media:  8.50 | Status: Aprovado
+Aluno: Nilson.............. Media:  7.00 | Status: Aprovado
+Aluno: Olivia.............. Media:  9.17 | Status: Aprovado
+Aluno: Paulo............... Media:  6.50 | Status: Recuperacao
+Aluno: Quezia.............. Media:  8.43 | Status: Aprovado
+Aluno: Ricardo............. Media:  4.50 | Status: Recuperacao
+Aluno: Sabrina............. Media: 10.00 | Status: Aprovado
+Aluno: Tiago............... Media:  7.67 | Status: Aprovado
+Aluno: Uriel............... Media:  5.50 | Status: Recuperacao
+Aluno: Vitor............... Media:  8.17 | Status: Aprovado
+Aluno: Wanda............... Media:  8.90 | Status: Aprovado
+Aluno: Yago................ Media:  4.50 | Status: Recuperacao
+Aluno: Zelia............... Media:  7.50 | Status: Aprovado
+Aluno: Arthur.............. Media:  8.73 | Status: Aprovado
+Aluno: Beatriz............. Media:  5.50 | Status: Recuperacao
+Aluno: Carlos.............. Media:  7.77 | Status: Aprovado
+Aluno: Davi................ Media:  9.23 | Status: Aprovado
+Aluno: Elisa............... Media:  4.00 | Status: Recuperacao
+Aluno: Fabio............... Media:  7.17 | Status: Aprovado
+Aluno: Giovana............. Media:  8.43 | Status: Aprovado
+Aluno: Henrique............ Media:  6.50 | Status: Recuperacao
+Aluno: Isabela............. Media:  9.50 | Status: Aprovado
+
+=============================================
+TOP STUDENT: Sabrina com media 10.00
+=============================================
+
+Dados ignorados para: Eva, Charlie
