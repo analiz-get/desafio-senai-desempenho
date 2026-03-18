@@ -24,8 +24,8 @@
 - RN02: Alunos sem notas ou com dados corrompidos devem ser tratados/avisados.
 
 ## 3. Kanban (Gestão Ágil)
-- [x] Levantamento de Requisitos e README (Done)
-- [x] Criar estrutura modular de arquivos (.py) (Done)
-- [x] Implementar validação e tratamento de dados (Done)
-- [x] Implementar lógica de médias e filtros (Done)
-- [x] Gerar relatório .txt e finalizar documentação (Done)
+```
+https://trello.com/invite/b/69b9f89c3e02c855c94a3250/ATTI236aa5a60e909b7d0b9161236888ddceA62D50E6/kanban-quadro-modelo
+```
+<img width="1920" height="1080" alt="Blue Colorful Mind Map Brainstorm" src="https://github.com/user-attachments/assets/5990e829-9e8d-49fa-9022-01d245ee4d74" />
+
